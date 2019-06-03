@@ -5,12 +5,12 @@ This is a basic todo-app that I build as a toy app in order to practice Ruby on 
 
 This app uses Rails v5.2.3 and Ruby v2.5.3.
 
-To run this app, install it by using ```git clone https://github.com/chiral-carbon/toy-app-rails.git```.
+To run this app, install it by typing into your terminal ```git clone https://github.com/chiral-carbon/toy-app-rails.git```.
 
 Then cd to the directory ```toy-app-rails/todo-list``` and run ```rails s``` OR ```rails server```.
 
 
-###**Topics I hope to cover**
+###**Concepts I hope to understand**
 
 * Ruby version
 
