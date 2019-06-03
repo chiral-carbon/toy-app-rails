@@ -1,7 +1,7 @@
 This is a basic todo-app that I build as a toy app in order to practice Ruby on Rails.
 
-
-###**Installation**
+**Installation**
+=================
 
 This app uses Rails v5.2.3 and Ruby v2.5.3.
 
@@ -10,7 +10,8 @@ To run this app, install it by typing into your terminal ```git clone https://gi
 Then cd to the directory ```toy-app-rails/todo-list``` and run ```rails s``` OR ```rails server```.
 
 
-###**Concepts I hope to understand**
+**Concepts I hope to understand**
+==================================
 
 * Ruby version
 
